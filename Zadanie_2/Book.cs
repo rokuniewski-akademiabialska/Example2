@@ -7,5 +7,6 @@ namespace Zadanie_2
     internal class Book
     {
         //
+        //
     }
 }
