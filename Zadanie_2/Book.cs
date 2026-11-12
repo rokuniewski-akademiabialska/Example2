@@ -6,7 +6,7 @@ namespace Zadanie_2
 {
     internal class Book
     {
-        //
+        List<String> strings = new List<String>();
         //
     }
 }
